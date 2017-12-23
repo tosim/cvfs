@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1513956430 source:d:\workspace\cvfs\access.c
+	"stdio.h"
+	"filesys.h"
+
+1513997826 d:\workspace\cvfs\filesys.h
+
+1513956775 source:d:\workspace\cvfs\ballfre.c
+	"stdio.h"
+	"filesys.h"
+
+1513958674 source:d:\workspace\cvfs\close.c
+	"stdio.h"
+	"filesys.h"
+
+1513956854 source:d:\workspace\cvfs\creat.c
+	"stdio.h"
+	"filesys.h"
+
+1513956873 source:d:\workspace\cvfs\delete.c
+	"stdio.h"
+	"filesys.h"
+
+1513965183 source:d:\workspace\cvfs\dir.c
+	"stdio.h"
+	"string.h"
+	"filesys.h"
+
+1513997390 source:d:\workspace\cvfs\format.c
+	"stdio.h"
+	"filesys.h"
+
+1513957498 source:d:\workspace\cvfs\halt.c
+	"stdio.h"
+	"filesys.h"
+
+1513958466 source:d:\workspace\cvfs\iallfre.c
+	"stdio.h"
+	"filesys.h"
+
+1513961711 source:d:\workspace\cvfs\install.c
+	"stdio.h"
+	"string.h"
+	"filesys.h"
+
+1513957527 source:d:\workspace\cvfs\log.c
+	"stdio.h"
+	"filesys.h"
+
+1513997413 source:d:\workspace\cvfs\main.c
+	"stdio.h"
+	"filesys.h"
+
+1513957055 source:d:\workspace\cvfs\name.c
+	"string.h"
+	"stdio.h"
+	"filesys.h"
+
+1513956621 source:d:\workspace\cvfs\open.c
+	"stdio.h"
+	"filesys.h"
+
+1513956677 source:d:\workspace\cvfs\rdwt.c
+	"stdio.h"
+	"filesys.h"
+
+1513957747 source:d:\workspace\cvfs\igetput.c
+	"stdio.h"
+	"stdlib.h"
+	"filesys.h"
+
+1513969170 source:d:\workspace\cvfs\interface.c
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	"filesys.h"
+
+1513956854 source:d:\workspace\cvfs\create.c
+	"stdio.h"
+	"filesys.h"
+
